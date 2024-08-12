@@ -32,13 +32,13 @@ This repository contains a collection of Python scripts for various tasks includ
 ### 1. Remove Duplicates from Text File
 
 Run the script to remove duplicates from `privs.txt`:
-```bash
+```css
 python remove_duplicates.py
 ```
 
 2. Format Text from PDF
 Run the script to extract and format text from a PDF file:
-```bash
+```css
 python extract_text_from_pdf.py
 ```
 
@@ -53,21 +53,21 @@ We welcome contributions to this project. To contribute:
 
 1. ***Fork the Repository***: Create a fork of the repository on GitHub.
 2. ***Clone Your Fork***: Clone your fork locally.
-```bash
+```css
 git clone https://github.com/your-username/repository-name.git
 ```
 3. ***Create a New Branch***: Create a new branch for your changes.
-```bash
+```css
 git checkout -b feature/your-feature
 ```
 4. **Make Changes**: Implement your changes or new features.
 5. ***Commit Changes***: Commit your changes with a descriptive message.
-```bash
+```css
 git add .
 git commit -m "Your commit message"
 ```
 6. ***Push Changes***: Push your changes to your fork.
-```bash
+```css
 git push origin feature/your-feature
 ```
 7. ***Create a Pull Request***: Open a pull request from your fork to the main repository.
